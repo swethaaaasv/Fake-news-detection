@@ -2,9 +2,9 @@
 
 Fake News Detection System
 
+Main Agenda: Particular type of news is Fake or Real
 
 Steps to implement Fake News Detection System
-Main Agenda: Particular type of news is Fake or Real
 
 1. Importing libraries, reading the data and converting the fake and real into binary numbers
 2. Performing text-preprocessing on the data which involves stemming
