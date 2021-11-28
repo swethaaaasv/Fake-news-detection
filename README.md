@@ -1,2 +1,5 @@
 # Project
-First repository for Github
+
+Fake News Detection System
+
+
